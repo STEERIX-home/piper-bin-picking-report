@@ -1,0 +1,13 @@
+*.mp4
+*.zip
+*.json
+*.log
+*.diff
+*.py
+*.pt
+*.pth
+*.safetensors
+.env*
+*.key
+*.pem
+__pycache__/

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="790" viewBox="0 0 1100 790" role="img" aria-labelledby="title desc">
+<title id="title">ENPIRE와 ASPIRE를 연결한 Piper 9 CAD 사용 흐름</title><desc id="desc">ASPIRE 경험 검색, ENPIRE 코드 작성 및 개선, CPU 검사와 동결, 자원 확보, Piper 실행, 독립 검증 후 경험 저장 또는 실패 개선, 9종 원본 감사 후 성공·미달 판정을 보존한 영상 제작.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9" fill="#88d6ee"/></marker></defs>
+<rect width="1100" height="790" rx="14" fill="#15212d"/>
+<g font-family="Noto Sans CJK KR, sans-serif" fill="#e7eff8" text-anchor="middle">
+<text x="550" y="40" font-size="25" font-weight="bold">경험 검색 → 코드 개선 → 물리 실행 → 독립 검증</text>
+<text x="550" y="69" font-size="15" fill="#b5c6d6">개발 seed 7 · 등록 CAD 9개 · 각 바구니 30개 · 실행 중 정책 동결</text>
+<g fill="#23394c" stroke="#568aa7" stroke-width="1.5"><rect x="330" y="96" width="440" height="60" rx="10"/><rect x="330" y="194" width="440" height="66" rx="10"/><rect x="330" y="298" width="440" height="60" rx="10"/><rect x="330" y="396" width="440" height="60" rx="10"/><rect x="330" y="494" width="440" height="60" rx="10"/><rect x="330" y="592" width="440" height="70" rx="10"/></g>
+<g font-size="20"><text x="550" y="123">ASPIRE · 검증 경험과 코드 검색</text><text x="550" y="222">ENPIRE · 기존 스킬 재사용 / 필요 시 개선</text><text x="550" y="324">CPU 계약 검사 · CAD / 코드 / 설정 동결</text><text x="550" y="422">managed job · SSD 5% 여유 · GPU lease</text><text x="550" y="520">Piper SIM · 관측 → 파지 → 운반 → 배치</text><text x="550" y="618">독립 검증 · 30개 안정 안착 + 궤적 감사</text></g>
+<g font-size="14" fill="#b9d0e0"><text x="550" y="144">실제 SkillLibrary 저장 · 검색 API</text><text x="550" y="247">ENPIRE 원본 + 작성자를 표시한 보완 코드</text><text x="550" y="346">초기화 / 물리 / 판정 조건 보존</text><text x="550" y="444">종료 시 lease 해제 · 출력 보존 등록</text><text x="550" y="542">관측 / 측정 접촉 사용 · 재파지와 복구 포함</text><text x="550" y="644">초기 30개 · 해시 동일 · 이탈 없음 · 스킬 오류 0</text></g>
+<g stroke="#88d6ee" stroke-width="2" fill="none" marker-end="url(#arrow)"><path d="M550 156V194"/><path d="M550 260V298"/><path d="M550 358V396"/><path d="M550 456V494"/><path d="M550 554V592"/><path d="M770 627H926V126H770"/><path d="M330 627H174V227H330"/><path d="M550 662V714"/></g>
+<rect x="18" y="411" width="286" height="102" rx="10" fill="#4b3136" stroke="#bb7d81"/>
+<text x="161" y="442" font-size="20">실패 / 오류 기록</text><text x="161" y="470" font-size="15">원인 분석 후 다음 에피소드 개선</text><text x="161" y="495" font-size="15">성공 횟수 추가 없음</text>
+<rect x="800" y="284" width="282" height="104" rx="10" fill="#24433d" stroke="#69ad99"/>
+<text x="941" y="315" font-size="20">완료 에피소드 통과</text><text x="941" y="343" font-size="15">실제 호출된 함수 + 검증 근거</text><text x="941" y="369" font-size="15">ASPIRE 경험에 저장</text>
+<rect x="250" y="714" width="600" height="58" rx="10" fill="#24433d" stroke="#69ad99"/>
+<text x="550" y="739" font-size="19">9개 원본 감사 완료 → 성공·미달을 보존한 영상 9개</text><text x="550" y="761" font-size="14" fill="#bde8d6">실패·재시도 구간 포함 · 전체 디코딩 / SHA-256 검사 · 결과 보고</text>
+</g></svg>
