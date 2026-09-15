@@ -1,0 +1,129 @@
+{
+  "id": "piper-bin-picking-stories",
+  "title": "Piper 9 CAD · Stories",
+  "description": "Public preview frames from the Piper bin-picking report. Full videos require access to the private piper-bin-picking repository.",
+  "reportUrl": "https://steerix-home.github.io/piper-bin-picking-report/",
+  "privateRepoUrl": "https://github.com/STEERIX-home/piper-bin-picking",
+  "updatedAt": "2026-09-14T18:42:07+09:00",
+  "items": [
+    {
+      "id": "bracket",
+      "title": "브래킷",
+      "description": "불규칙 브래킷 CAD를 한 바구니에 30개 넣고 seed 7에서 bin-picking을 검증한 실험입니다. 수납함 경계 여유를 넘는 배치로 29/30에 그쳤습니다.",
+      "score": "29/30",
+      "status": "incomplete",
+      "preview": "assets/미리보기/01_브래킷_29-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/01_브래킷_29-30.mp4",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "cosmetic-bottle",
+      "title": "화장품 용기",
+      "description": "화장품 용기 CAD 30개를 GPU 장면·탐색으로 집어 수납하는 실험입니다. pick_program_v6으로 전량 30/30을 통과했습니다.",
+      "score": "30/30",
+      "status": "passed",
+      "preview": "assets/미리보기/02_화장품_용기_30-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/02_화장품_용기_30-30.mp4",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "engine-housing",
+      "title": "엔진 하우징",
+      "description": "엔진 하우징처럼 부피가 큰 CAD를 GPU 장면에서 파지·수납하는 실험입니다. 127회 시도 끝에 30/30 검증을 통과했습니다.",
+      "score": "30/30",
+      "status": "passed",
+      "preview": "assets/미리보기/03_엔진_하우징_30-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/03_엔진_하우징_30-30.mp4",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "key-flange",
+      "title": "키 플랜지",
+      "description": "키 플랜지 CAD 30개를 GPU 탐색으로 정렬·수납하는 실험입니다. pick_program_v6으로 전량 통과했습니다.",
+      "score": "30/30",
+      "status": "passed",
+      "preview": "assets/미리보기/04_키_플랜지_30-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/04_키_플랜지_30-30.mp4",
+      "order": 4,
+      "active": true
+    },
+    {
+      "id": "pump-dispenser",
+      "title": "펌프 디스펜서",
+      "description": "펌프 디스펜서 CAD를 CPU 장면·탐색으로 검증한 실험입니다. 최종 외곽이 수납함 3mm 여유를 넘어 29/30으로 기록됐습니다.",
+      "score": "29/30",
+      "status": "incomplete",
+      "preview": "assets/미리보기/05_펌프_디스펜서_29-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/05_펌프_디스펜서_29-30.mp4",
+      "order": 5,
+      "active": true
+    },
+    {
+      "id": "square-container",
+      "title": "사각 용기",
+      "description": "사각 용기 CAD 30개를 CPU에서 파지·안착하는 실험입니다. pick_program_v10으로 전량 검증을 통과했습니다.",
+      "score": "30/30",
+      "status": "passed",
+      "preview": "assets/미리보기/06_사각_용기_30-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/06_사각_용기_30-30.mp4",
+      "order": 6,
+      "active": true
+    },
+    {
+      "id": "square-container-reregistered",
+      "title": "사각 용기 재등록 CAD",
+      "description": "형상을 재등록한 사각 용기 CAD로 동일 프로토콜을 다시 돌린 실험입니다. 재등록 후에도 30/30을 유지했습니다.",
+      "score": "30/30",
+      "status": "passed",
+      "preview": "assets/미리보기/07_사각_용기_재등록_CAD_30-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/07_사각_용기_재등록_CAD_30-30.mp4",
+      "order": 7,
+      "active": true
+    },
+    {
+      "id": "round-container",
+      "title": "원형 용기",
+      "description": "원형 용기 CAD를 GPU 장면·탐색으로 집어 수납하는 실험입니다. pick_program_v6으로 전량 통과했습니다.",
+      "score": "30/30",
+      "status": "passed",
+      "preview": "assets/미리보기/08_원형_용기_30-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/08_원형_용기_30-30.mp4",
+      "order": 8,
+      "active": true
+    },
+    {
+      "id": "tube-container",
+      "title": "튜브 용기",
+      "description": "튜브 용기 CAD를 CPU에서 파지·운반하는 실험입니다. 마지막 물체 운반 중 60분 예산에 닿아 29/30으로 미완료 처리됐습니다.",
+      "score": "29/30",
+      "status": "incomplete",
+      "preview": "assets/미리보기/09_튜브_용기_29-30.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/09_튜브_용기_29-30.mp4",
+      "order": 9,
+      "active": true
+    },
+    {
+      "id": "enpire-flow",
+      "title": "ENPIRE 사용 흐름 설명",
+      "description": "실패 관측을 받아 Python 스킬을 작성·개선하고 버전·부모 관계를 관리하는 ENPIRE 역할을 정적 슬라이드로 설명합니다.",
+      "status": "flow",
+      "preview": "assets/미리보기/10_ENPIRE_사용흐름_1.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/10_ENPIRE_사용흐름.mp4",
+      "order": 10,
+      "active": true
+    },
+    {
+      "id": "aspire-flow",
+      "title": "ASPIRE 사용 흐름 설명",
+      "description": "완료 에피소드에서 재사용 함수를 저장·검색하는 ASPIRE 기억 연결을 정적 슬라이드로 설명합니다. 이번 캠페인에서는 스킬 자체 생성 경로는 검증하지 않았습니다.",
+      "status": "flow",
+      "preview": "assets/미리보기/11_ASPIRE_사용흐름_1.png",
+      "privateVideoUrl": "https://github.com/STEERIX-home/piper-bin-picking/blob/main/reports/20260914/영상/11_ASPIRE_사용흐름.mp4",
+      "order": 11,
+      "active": true
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 *.mp4
 *.zip
 *.json
+!stories.json
 *.log
 *.diff
 *.py
